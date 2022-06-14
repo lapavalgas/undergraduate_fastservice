@@ -13,9 +13,10 @@ english -
 <p align="center">Final project of the undergraduate course in Systems Analysis and Development</p>
 <br>  
 
-<img    style="margin: auto; display: block;"
-        src="./resources/readme_logo.jpg"/>
-
+<p align="center">
+        <img    style="margin: auto; display: block;"
+                src="./resources/logo.jpg"/>
+</p>
 
 <!-- DATE -->
 <!-- DATE -->
